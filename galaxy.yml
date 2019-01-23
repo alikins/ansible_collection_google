@@ -3,7 +3,7 @@ name: "google"
 authors:
   - "Alex Smith <asmith@google.com>"
 version: "0.1.0"
-license: "BSD"
+license: "BSD-3-Clause"
 tags:
   - certified
   - cloud
